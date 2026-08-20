@@ -13,3 +13,4 @@ C:\laragon\www\Reactivities\Persistence\obj\Debug\net10.0\Persistence.dll
 C:\laragon\www\Reactivities\Persistence\obj\Debug\net10.0\refint\Persistence.dll
 C:\laragon\www\Reactivities\Persistence\obj\Debug\net10.0\Persistence.pdb
 C:\laragon\www\Reactivities\Persistence\obj\Debug\net10.0\ref\Persistence.dll
+c:\laragon\www\Reactivities\Persistence\obj\Debug\net10.0\Persistence.sourcelink.json
